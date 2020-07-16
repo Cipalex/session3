@@ -17,3 +17,4 @@ a = 'ana are mere si nu are pere'
 print('Ex.3 - We have the text: ' + a )
 words = len(a.split())
 print('This text has ' + str(words) + ' words')
+
